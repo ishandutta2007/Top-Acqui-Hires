@@ -67,3 +67,12 @@ Thank you for your support! 🙌
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Top-Acqui-Hires&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Top-Acqui-Hires&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Top-Acqui-Hires&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Top-Acqui-Hires_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Top-Acqui-Hires_growth.svg">
+  </picture>
+</a>
